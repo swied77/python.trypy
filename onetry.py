@@ -1,3 +1,7 @@
-print ("Whats upp")
 
-This is an example project of domeonstrate the use of git on ubuntu.
+def main(msg):
+    (print)(msg)
+
+main ("Hello People")
+
+#This is an example project of domeonstrate the use of git on ubuntu.
