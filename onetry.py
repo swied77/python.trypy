@@ -1,5 +1,6 @@
 
 def main(msg):
+//Adding a different comments
     (print)(msg)
 
 main ("Hello People")
