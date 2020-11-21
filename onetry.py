@@ -1,12 +1,13 @@
 
 def main(msg):
-// the most new comments to try this demo project
-//Adding a different comments
-//neww
+// no longer needs comments here
 
 //print message
 
     (print)(msg)
+
+def secondary ():
+   print ("New function")
 
 main ("Hello People")
 
