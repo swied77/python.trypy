@@ -1,6 +1,11 @@
 
 def main(msg):
+<<<<<<< HEAD
 //Adding a different comments
+//neww
+
+//print message
+
     (print)(msg)
 
 main ("Hello People")
